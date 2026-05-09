@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1748900666157,
-  "index": "/index.html",
+  "timestamp": 1778355133719,
+  "index": "/index.csr.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-3KEAWVSA.js",
-        "/chunk-7AYT5Z6Z.js",
+        "/chunk-ARKLFHHL.js",
+        "/chunk-JB3YQB3Z.js",
         "/favicon.ico",
         "/index.html",
-        "/main-JNVFD3FV.js",
+        "/main-K2ULCUKV.js",
         "/manifest.webmanifest",
-        "/polyfills-RX4V3J3S.js",
-        "/styles-UGZA4OUI.css"
+        "/polyfills-5CFQRCPP.js",
+        "/styles-IKD7AVIE.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,14 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/fonts/cairo/Cairo-Black.ttf",
+        "/assets/fonts/cairo/Cairo-Bold.ttf",
+        "/assets/fonts/cairo/Cairo-ExtraBold.ttf",
+        "/assets/fonts/cairo/Cairo-ExtraLight.ttf",
+        "/assets/fonts/cairo/Cairo-Light.ttf",
+        "/assets/fonts/cairo/Cairo-Medium.ttf",
+        "/assets/fonts/cairo/Cairo-Regular.ttf",
+        "/assets/fonts/cairo/Cairo-SemiBold.ttf",
         "/assets/images/header-side-graphic.svg",
         "/assets/images/icons/android-icon-144x144.png",
         "/assets/images/icons/android-icon-192x192.png",
@@ -73,6 +81,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/fonts/cairo/Cairo-Black.ttf": "daf7d75a54160134031c1f4c7ed3aa8f80b33f9d",
+    "/assets/fonts/cairo/Cairo-Bold.ttf": "dd70862b408a084a4e55aa03529eb8e06641165e",
+    "/assets/fonts/cairo/Cairo-ExtraBold.ttf": "35edba902298f72ed1d47c93201d2517169a0004",
+    "/assets/fonts/cairo/Cairo-ExtraLight.ttf": "9c3787a7b847c6d1749e69f574829623834e1626",
+    "/assets/fonts/cairo/Cairo-Light.ttf": "cef35f6061ab86fc969e4be4568914e3bebdfb80",
+    "/assets/fonts/cairo/Cairo-Medium.ttf": "35fb6c639d86475e0ba6f1883001310d0ab4076d",
+    "/assets/fonts/cairo/Cairo-Regular.ttf": "ff06dbd8c8a0fef12b0668cb7b849c209a21b435",
+    "/assets/fonts/cairo/Cairo-SemiBold.ttf": "30dc3ec8aba45f975411bc675494c59b5c227f47",
     "/assets/images/header-side-graphic.svg": "52a19fdc811b47e3ae06ca20057dfaeaca637417",
     "/assets/images/icons/android-icon-144x144.png": "698d56816280cd698c17939de6caf4ef9053db61",
     "/assets/images/icons/android-icon-192x192.png": "0240243849474cfe51504991be3a7940078faa4c",
@@ -110,14 +126,14 @@
     "/assets/images/star-line.svg": "db10c9d177f0788a4c413594350c281b59a532cb",
     "/assets/menu.pdf": "fbc8fce5c61916bdc9e659f03e2d38ac0a527c07",
     "/assets/menu.png": "015226cd82293dad6bf804858407976d984cf881",
-    "/chunk-3KEAWVSA.js": "604b98766fdcc3fd0755c07786f7e24e8054b97a",
-    "/chunk-7AYT5Z6Z.js": "f3634fa27a7ce18be431ee96bce8f68fdf43f332",
+    "/chunk-ARKLFHHL.js": "93a04f04c0405141e8cfc6d44f1eed67aa9c205f",
+    "/chunk-JB3YQB3Z.js": "8e51efbb5cc24756676dbbe662a55d690d1ccd6b",
     "/favicon.ico": "c9d679bf4d8328af37dd6a98d40f36b32a352a15",
-    "/index.html": "a378c01aac8bbe405582f56342701981c0b16b0f",
-    "/main-JNVFD3FV.js": "ea9b74fadae6cd06a662ec3ea9356ab25b780b21",
+    "/index.html": "b66ac50877625ba4570b5de0e8dda118633dc8c8",
+    "/main-K2ULCUKV.js": "cf86b44c2632073a3e451bba6835a02bddaf0602",
     "/manifest.webmanifest": "86d85a3823ab1a61996e241b2b918c7b8605aca8",
-    "/polyfills-RX4V3J3S.js": "6b4c4ea33aa92bce0b91df442a680ed73e4303db",
-    "/styles-UGZA4OUI.css": "2d0df849124101f5b6ec993b22fc1d8830748b97"
+    "/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/styles-IKD7AVIE.css": "b73ba2f97f9072c6c6203bd986ea44e8b34e786b"
   },
   "navigationUrls": [
     {
