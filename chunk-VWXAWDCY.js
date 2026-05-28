@@ -1,0 +1,1 @@
+import{K as n}from"./chunk-GZMG4RX7.js";var c=(()=>{class t{trackEvent(e,r,o){typeof gtag=="function"&&gtag("event",e,{event_category:o,event_label:e,value:r})}static{this.\u0275fac=function(r){return new(r||t)}}static{this.\u0275prov=n({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{c as a};

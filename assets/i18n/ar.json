@@ -1,0 +1,88 @@
+{
+  "brand": {
+    "name": "جيلاتي بيومي",
+    "alternateName": "Bayoumi Gelato"
+  },
+  "seo": {
+    "siteUrl": "https://bayoumi-gelato.vercel.app",
+    "image": "https://bayoumi-gelato.vercel.app/assets/images/og-image.png",
+    "description": "تأسس جيلاتي بيومي في عام 1925 على يد إبراهيم بيومي سليمان، متخصص في تصنيع الجيلاتي بمكونات طبيعية وجودة عالية. يقع في محرم بك، الإسكندرية.",
+    "keywords": "جيلاتي, الإسكندرية, جيلاتي بيومي, حلويات, مثلجات, جيلاتو, جيلاتي طبيعي, كريمة بيومي, محرم بك, إبراهيم بيومي سليمان",
+    "author": "جيلاتي بيومي",
+    "locale": "ar_EG",
+    "type": "website",
+    "addressLocality": "الإسكندرية",
+    "addressCountry": "EG",
+    "departmentNameSeparator": " - "
+  },
+  "nav": {
+    "logoAlt": "شعار جيلاتي بيومي",
+    "home": "الرئيسية",
+    "branches": "الفروع",
+    "contact": "اتصل بنا"
+  },
+  "hero": {
+    "imageAlt": "صورة جيلاتي",
+    "title": "جيلاتي طبيعي مع كريمة بيومي",
+    "subtitle": "تجربة مذاق استثنائية في كل معلقة",
+    "whatsappButton": "أرسل لنا على الواتساب"
+  },
+  "home": {
+    "branchesSectionTitle": "الفروع",
+    "contactSectionTitle": "تواصل معنا",
+    "sectionDividerAlt": "فاصل زخرفي",
+    "floatingWhatsappAriaLabel": "واتساب"
+  },
+  "branches": {
+    "mapTitle": "جيلاتي بيومي",
+    "mapEmbedUrl": "https://www.google.com/maps/embed/v1/place?key=AIzaSyDKG-BYqM6v4bUabFlIa1JrTH-Q1xFSWg8&q=جيلاتي+بيومي",
+    "openFrom": "مفتوح من:",
+    "callNow": "اتصل الآن"
+  },
+  "contact": {
+    "success": "تم إرسال رسالتك بنجاح",
+    "missingFields": "برجاء ملء جميع الحقول",
+    "invalidEmail": "الرجاء إدخال بريد إلكتروني صحيح",
+    "submitError": "حدث خطأ أثناء إرسال رسالتك، يرجى المحاولة مرة أخرى",
+    "closeAlert": "إغلاق",
+    "nameLabel": "الاسم",
+    "emailLabel": "البريد الإلكتروني",
+    "messageLabel": "الرسالة",
+    "requiredMarker": "*",
+    "submitButton": "إرسال"
+  },
+  "footer": {
+    "copyright": "Copyright © Bayoumi Gelato"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found - الصفحة غير موجودة",
+    "message": "لم يتم العثور على الملف المحدد في هذا الموقع. يرجى التحقق من وجود أخطاء في URL وحاول مرة أخرى.",
+    "returnHome": "Return to Home - الرجوع إلى الصفحة الرئيسية"
+  },
+  "social": {
+    "emailLabel": "البريد الإلكتروني",
+    "instagramLabel": "إنستجرام",
+    "linkedinLabel": "لينكدإن",
+    "facebookLabel": "فيسبوك"
+  },
+  "analytics": {
+    "category": "User Interaction",
+    "homePageVisit": "User visited the home page",
+    "notFoundPageVisit": "User visited the not found page",
+    "whatsappClick": "User clicked on the WhatsApp button",
+    "phoneClick": "User clicked on the phone number",
+    "socialClickPrefix": "User clicked on the ",
+    "socialClickSuffix": " button"
+  },
+  "branchesList": [
+    {
+      "name": "محرم بك",
+      "address": "١٥ شارع نصر احمد زكي، محرم بك",
+      "location": "الإسكندرية، مصر",
+      "locationUrl": "https://goo.gl/maps/8q3XhYg5uV3bqQyj6",
+      "phoneNumbers": ["0155 855 6223", "03 4956900", "03 3934631"],
+      "openingHours": "٩ صباحا حتى 1 بعد منتصف الليل"
+    }
+  ]
+}

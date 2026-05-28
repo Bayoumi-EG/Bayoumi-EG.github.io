@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778356090417,
+  "timestamp": 1780010278311,
   "index": "/index.csr.html",
   "assetGroups": [
     {
@@ -11,14 +11,18 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-ARKLFHHL.js",
-        "/chunk-JB3YQB3Z.js",
+        "/chunk-6LLVVHVC.js",
+        "/chunk-GZMG4RX7.js",
+        "/chunk-JTETECJO.js",
+        "/chunk-MJOWFS26.js",
+        "/chunk-RIEKMKFN.js",
+        "/chunk-VWXAWDCY.js",
         "/favicon.ico",
         "/index.html",
-        "/main-K2ULCUKV.js",
+        "/main-JRUHMMSC.js",
         "/manifest.webmanifest",
-        "/polyfills-5CFQRCPP.js",
-        "/styles-IKD7AVIE.css"
+        "/polyfills-ERLYOUQC.js",
+        "/styles-V7ZELTFM.css"
       ],
       "patterns": []
     },
@@ -38,6 +42,7 @@
         "/assets/fonts/cairo/Cairo-Medium.ttf",
         "/assets/fonts/cairo/Cairo-Regular.ttf",
         "/assets/fonts/cairo/Cairo-SemiBold.ttf",
+        "/assets/i18n/ar.json",
         "/assets/images/header-side-graphic.svg",
         "/assets/images/icons/android-icon-144x144.png",
         "/assets/images/icons/android-icon-192x192.png",
@@ -66,12 +71,7 @@
         "/assets/images/icons/ms-icon-70x70.png",
         "/assets/images/logo-ar.png",
         "/assets/images/logo-ar_188x120.png",
-        "/assets/images/notfound/logo-blue.svg",
         "/assets/images/og-image.png",
-        "/assets/images/social-media/facebook.svg",
-        "/assets/images/social-media/instagram.svg",
-        "/assets/images/social-media/mail.svg",
-        "/assets/images/social-media/twitter.svg",
         "/assets/images/star-line.svg",
         "/assets/menu.pdf",
         "/assets/menu.png"
@@ -89,6 +89,7 @@
     "/assets/fonts/cairo/Cairo-Medium.ttf": "35fb6c639d86475e0ba6f1883001310d0ab4076d",
     "/assets/fonts/cairo/Cairo-Regular.ttf": "ff06dbd8c8a0fef12b0668cb7b849c209a21b435",
     "/assets/fonts/cairo/Cairo-SemiBold.ttf": "30dc3ec8aba45f975411bc675494c59b5c227f47",
+    "/assets/i18n/ar.json": "ab0a4caf1baeec9ffcb8e6771a3b586945292102",
     "/assets/images/header-side-graphic.svg": "52a19fdc811b47e3ae06ca20057dfaeaca637417",
     "/assets/images/icons/android-icon-144x144.png": "698d56816280cd698c17939de6caf4ef9053db61",
     "/assets/images/icons/android-icon-192x192.png": "0240243849474cfe51504991be3a7940078faa4c",
@@ -117,23 +118,22 @@
     "/assets/images/icons/ms-icon-70x70.png": "e4e7321637fb17cf468e88a4ce8a3e518ae622c8",
     "/assets/images/logo-ar.png": "949009ca855bcb28769f3d324a917335bce1406c",
     "/assets/images/logo-ar_188x120.png": "963e0f2cf2e8e823e78d9bb760e7f0a43e145bc3",
-    "/assets/images/notfound/logo-blue.svg": "18de55ae98d8d9723be24f5d10d2b558c2abf10e",
     "/assets/images/og-image.png": "2735c7c34a15918d83b851911db03bb51e560d84",
-    "/assets/images/social-media/facebook.svg": "e0584e8b29b13e8198e00e587ca06e42340b8714",
-    "/assets/images/social-media/instagram.svg": "8e7390544d58127b7e5d3e8dfbd7481e7dc7be70",
-    "/assets/images/social-media/mail.svg": "eff7149d7d77b59c02a86cbd486a6a0133d43996",
-    "/assets/images/social-media/twitter.svg": "b9f0754e865a3b1921ec9dd1e6da8131f7baaaf3",
     "/assets/images/star-line.svg": "db10c9d177f0788a4c413594350c281b59a532cb",
     "/assets/menu.pdf": "fbc8fce5c61916bdc9e659f03e2d38ac0a527c07",
     "/assets/menu.png": "015226cd82293dad6bf804858407976d984cf881",
-    "/chunk-ARKLFHHL.js": "93a04f04c0405141e8cfc6d44f1eed67aa9c205f",
-    "/chunk-JB3YQB3Z.js": "8e51efbb5cc24756676dbbe662a55d690d1ccd6b",
+    "/chunk-6LLVVHVC.js": "2cf091c04efd7ded924360d5118c47b3dd135c4e",
+    "/chunk-GZMG4RX7.js": "e1de43f91d8a268f07f368151108c192157d2c07",
+    "/chunk-JTETECJO.js": "72c9020611ba466af5d0f46510dda1c4db1d930b",
+    "/chunk-MJOWFS26.js": "ae44a12f4153f0c64fe1faa366cfdac425d696d2",
+    "/chunk-RIEKMKFN.js": "2bd8f9c6155ea95edf5a837f3bc5e666d31626e9",
+    "/chunk-VWXAWDCY.js": "2f507722cb558cd3fddb93e4d1722f1be4e60578",
     "/favicon.ico": "c9d679bf4d8328af37dd6a98d40f36b32a352a15",
-    "/index.html": "b66ac50877625ba4570b5de0e8dda118633dc8c8",
-    "/main-K2ULCUKV.js": "cf86b44c2632073a3e451bba6835a02bddaf0602",
+    "/index.html": "bcf3901fc6b4e648ffd04ed5e4f8776a13e038bc",
+    "/main-JRUHMMSC.js": "5294b3eb795083b2bd59417af10eff4f7fc519fa",
     "/manifest.webmanifest": "86d85a3823ab1a61996e241b2b918c7b8605aca8",
-    "/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
-    "/styles-IKD7AVIE.css": "b73ba2f97f9072c6c6203bd986ea44e8b34e786b"
+    "/polyfills-ERLYOUQC.js": "a5955bd090cb03ab54dd7dfcd8139ab0a8d8dd7f",
+    "/styles-V7ZELTFM.css": "13b9353c7a0d264ab21f51ebf9b1b9173df3e8dd"
   },
   "navigationUrls": [
     {
