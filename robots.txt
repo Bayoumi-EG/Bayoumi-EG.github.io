@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://bayoumi-eg.github.io/sitemap.xml
