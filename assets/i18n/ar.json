@@ -33,7 +33,8 @@
     "branchesSectionTitle": "الفروع",
     "contactSectionTitle": "تواصل معنا",
     "sectionDividerAlt": "فاصل زخرفي",
-    "floatingWhatsappAriaLabel": "واتساب"
+    "floatingWhatsappAriaLabel": "واتساب",
+    "floatingTalabatAriaLabel": "اطلب الآن من طلبات"
   },
   "story": {
     "sectionTitle": "قصتنا",
@@ -60,7 +61,7 @@
   },
   "branches": {
     "mapTitle": "جيلاتي بيومي",
-    "mapEmbedUrl": "https://www.google.com/maps/embed/v1/place?key=AIzaSyDKG-BYqM6v4bUabFlIa1JrTH-Q1xFSWg8&q=جيلاتي+بيومي",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=جيلاتي%20بيومي%20محرم%20بك&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "openFrom": "مفتوح من:",
     "callNow": "اتصل الآن"
   },
