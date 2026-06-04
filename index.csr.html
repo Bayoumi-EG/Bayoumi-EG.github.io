@@ -47,7 +47,14 @@
     <meta name="msapplication-TileImage" content="assets/images/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#f5f7fe">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" crossorigin="anonymous">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" as="style" onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      " crossorigin="anonymous">
+    <noscript>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" crossorigin="anonymous">
+    </noscript>
     <link rel="manifest" href="manifest.webmanifest">
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0PH639R3EW"></script>
     <script>
@@ -62,5 +69,5 @@
   <style>:root{--bg-color:#f5f7fe;--light-blue:#5296cf;--primary:#33485d;--dark:#42495b;--green:#28a745;--teal:#20c997}@font-face{font-family:Cairo;src:url(/assets/fonts/cairo/Cairo-Regular.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:Cairo;src:url(/assets/fonts/cairo/Cairo-Medium.woff2) format("woff2");font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:Cairo;src:url(/assets/fonts/cairo/Cairo-SemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:Cairo;src:url(/assets/fonts/cairo/Cairo-Bold.woff2) format("woff2");font-weight:700;font-style:normal;font-display:swap}*{font-family:Cairo,Arial,sans-serif,Courier,monospace;box-sizing:border-box;margin:0;padding:0;touch-action:manipulation}html{scroll-behavior:smooth;position:relative;min-height:100%}body{margin:auto;padding:0;background-color:#f5f7fe;touch-action:manipulation}html,body{height:100%}</style><link rel="stylesheet" href="styles-ZMXJYHT4.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-ZMXJYHT4.css"></noscript></head>
   <body ngcm="">
     <app-root></app-root>
-  <link rel="modulepreload" href="chunk-FO5EZA5U.js"><link rel="modulepreload" href="chunk-THFEB3KX.js"><script src="polyfills-ERLYOUQC.js" type="module"></script><script src="main-FSQIHGQX.js" type="module"></script></body>
+  <link rel="modulepreload" href="chunk-FO5EZA5U.js"><link rel="modulepreload" href="chunk-THFEB3KX.js"><script src="polyfills-ERLYOUQC.js" type="module"></script><script src="main-OOOFXK6R.js" type="module"></script></body>
 </html>

@@ -45,7 +45,14 @@
     <meta name="msapplication-TileImage" content="assets/images/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#f5f7fe">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" crossorigin="anonymous">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" as="style" onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      " crossorigin="anonymous">
+    <noscript>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" crossorigin="anonymous">
+    </noscript>
     <link rel="manifest" href="manifest.webmanifest">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-0PH639R3EW"></script>
     <script>
@@ -62,7 +69,7 @@
   <body><!--nghm--><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script><script>window.__jsaction_bootstrap(document.body,"ng",["click"],[]);</script>
     <app-root ng-version="21.2.12" ngh="1" ng-server-context="ssg"><router-outlet></router-outlet><app-not-found _nghost-ng-c2150313494 ngh="0"><div _ngcontent-ng-c2150313494 id="message" dir="auto"><h2 _ngcontent-ng-c2150313494>404</h2><h1 _ngcontent-ng-c2150313494 dir="auto">Page Not Found - الصفحة غير موجودة</h1><p _ngcontent-ng-c2150313494 dir="auto">نأسف، الصفحة التي تبحث عنها غير موجودة. يرجى التأكد من الرابط والمحاولة مرة أخرى.</p><hr _ngcontent-ng-c2150313494><a _ngcontent-ng-c2150313494 routerlink="/" href="/" jsaction="click:;"><h3 _ngcontent-ng-c2150313494 dir="auto">Return to Home - الرجوع إلى الصفحة الرئيسية</h3></a></div></app-not-found><!----></app-root>
-  <link rel="modulepreload" href="chunk-FO5EZA5U.js"><link rel="modulepreload" href="chunk-THFEB3KX.js"><script src="polyfills-ERLYOUQC.js" type="module"></script><script src="main-FSQIHGQX.js" type="module"></script>
+  <link rel="modulepreload" href="chunk-FO5EZA5U.js"><link rel="modulepreload" href="chunk-THFEB3KX.js"><script src="polyfills-ERLYOUQC.js" type="module"></script><script src="main-OOOFXK6R.js" type="module"></script>
 <link rel="modulepreload" href="chunk-SBTNPFJJ.js">
 
 
