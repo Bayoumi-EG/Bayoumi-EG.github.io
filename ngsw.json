@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1783069388494,
+  "timestamp": 1783077537523,
   "index": "/index.csr.html",
   "assetGroups": [
     {
@@ -124,7 +124,7 @@
     "/assets/fonts/cairo/Cairo-Regular.woff2": "63467608b5608c552608867c8a7977ae255a30ec",
     "/assets/fonts/cairo/Cairo-SemiBold.woff2": "de9b5ee86764c5b443f18e6990ac80562588af3d",
     "/assets/i18n/ar.json": "03a3ff43800e85b65c991ebbd8f3228921f8e1c5",
-    "/assets/images/cream-gelato.webp": "2cbc9594ff9e4945a6b3792a10f9f4ac0c8ea6e7",
+    "/assets/images/cream-gelato.webp": "e3ed649ca6c8d4c0c5cf164f924a95ff0285bb0f",
     "/assets/images/header-side-graphic.svg": "4a771b7d3487deb73da8128da65e3941e255c231",
     "/assets/images/icons/android-icon-144x144.png": "698d56816280cd698c17939de6caf4ef9053db61",
     "/assets/images/icons/android-icon-192x192.png": "0240243849474cfe51504991be3a7940078faa4c",
@@ -151,7 +151,7 @@
     "/assets/images/icons/ms-icon-150x150.png": "6c06ff1dce539b2ed9423bd1ce3b813239d82d6b",
     "/assets/images/icons/ms-icon-310x310.png": "e3d79bcb7a281f4140e46ec96332fe15858cc8cc",
     "/assets/images/icons/ms-icon-70x70.png": "e4e7321637fb17cf468e88a4ce8a3e518ae622c8",
-    "/assets/images/logo-ar.webp": "9a245c3c3e548a97885a3d7a213426c1399ebec6",
+    "/assets/images/logo-ar.webp": "2d4975dfba3c8b18fa1355cbbc789dbca97b3046",
     "/assets/images/menu/cake-hams-chocolate.webp": "f07ce2af3e86d501cad6aa76c4f7910384216dd6",
     "/assets/images/menu/cake-hams-mango.webp": "6fbf80307bb2ffc5a8d57519ec00befebde401ce",
     "/assets/images/menu/cake-heart-jumbo-mango-choco.webp": "37c0d73924402b4cef8dcc979e59674d1cbe5749",
@@ -181,7 +181,7 @@
     "/assets/images/og-image.png": "c5417aa287e76faca656524f6563fbebf2597fc9",
     "/assets/images/old-gelato-cart.webp": "41d8df2997cefe4e8f864f9ec0852e9b03e62760",
     "/assets/images/star-line.svg": "db10c9d177f0788a4c413594350c281b59a532cb",
-    "/assets/images/story-timeline/1954-zain-el-abdeen-shop.webp": "ffa393796c13a0dafeb22ea8f9017d309f6eef2c",
+    "/assets/images/story-timeline/1954-zain-el-abdeen-shop.webp": "6d7057b026ba9fa0dacd4fd9013d04727a51661f",
     "/assets/images/story-timeline/1970s-specialization.webp": "3409dcf9899155c68de795a3c3f23c98b4619bac",
     "/assets/images/story-timeline/1987-legacy-handover.webp": "dc195e52af6b16f28458eaf4281ef0e6e18f2f64",
     "/assets/images/story-timeline/1994-gelato-cake-celebration.webp": "12da6bf5fa5aa1e1f8db79c493962a22a3295646",
