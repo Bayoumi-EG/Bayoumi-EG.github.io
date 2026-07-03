@@ -1,7 +1,12 @@
 # جيلاتي بيومي - Bayoumi Gelato
 
-An authentic, heritage Egyptian ice cream brand based in Moharam Bey, Alexandria, established in 1925.
-علامة تجارية تراثية سكندرية متخصصة في الجيلاتي الطبيعي منذ عام 1925، ومقرها حي محرم بك بالإسكندرية.
+> An authentic, heritage Egyptian ice cream brand based in Moharam Bey, Alexandria, established in 1925.
+> علامة تجارية تراثية سكندرية متخصصة في الجيلاتي الطبيعي منذ عام 1925، ومقرها حي محرم بك بالإسكندرية.
+
+## Navigation (الأقسام)
+- [Home (الرئيسية)](https://bayoumi-eg.github.io/)
+- [Our Story (قصتنا)](https://bayoumi-eg.github.io/story)
+- [Our Menu (قائمة الطعام)](https://bayoumi-eg.github.io/menu)
 
 ## Brand Info & Metadata (معلومات العلامة التجارية)
 - **Official Name:** جيلاتي بيومي (Bayoumi Gelato)
@@ -25,7 +30,7 @@ Established by Sheikh Ibrahim Bayoumi (born 1908), who learned the craft of maki
 ## Branches & Contact (الفروع والتواصل)
 ### Moharam Bey Branch (فرع محرم بك)
 - **Address:** 15 Nasr Ahmed Zaki St, Moharam Bey, Alexandria, Egypt (15 شارع نصر احمد زكي، محرم بك - الإسكندرية)
-- **Location Link:** https://goo.gl/maps/8q3XhYg5uV3bqQyj6
+- **Location Link:** [Google Maps Location (موقعنا على الخريطة)](https://goo.gl/maps/8q3XhYg5uV3bqQyj6)
 - **Phone Numbers:**
   - `0155 855 6223` (Mobile & WhatsApp)
   - `03 4956900` (Landline)
