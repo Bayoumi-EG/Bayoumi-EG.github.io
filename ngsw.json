@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1783078083672,
+  "timestamp": 1783080305633,
   "index": "/index.csr.html",
   "assetGroups": [
     {
@@ -107,6 +107,7 @@
         "/assets/images/story-timeline/1987-legacy-handover.webp",
         "/assets/images/story-timeline/1994-gelato-cake-celebration.webp",
         "/assets/images/story-timeline/today-workshop-and-shop.webp",
+        "/assets/menu-table.png",
         "/assets/menu.pdf",
         "/assets/menu.png"
       ],
@@ -186,8 +187,9 @@
     "/assets/images/story-timeline/1987-legacy-handover.webp": "dc195e52af6b16f28458eaf4281ef0e6e18f2f64",
     "/assets/images/story-timeline/1994-gelato-cake-celebration.webp": "12da6bf5fa5aa1e1f8db79c493962a22a3295646",
     "/assets/images/story-timeline/today-workshop-and-shop.webp": "7e0d44a28d2927c11e12592ad844f32c7a691551",
-    "/assets/menu.pdf": "621d4616b0ddb8472e1807f9a012e8ff3797507c",
-    "/assets/menu.png": "c573e651e2ccff9dd0fcce79f8cff0413c84953e",
+    "/assets/menu-table.png": "c573e651e2ccff9dd0fcce79f8cff0413c84953e",
+    "/assets/menu.pdf": "4f2c2586d43399a82aa893ccb7134c2d4e9fde92",
+    "/assets/menu.png": "975826ff54208df629089fdd7eca4c079e103d50",
     "/chunk-AUKZ4W67.js": "53df81d9f5a609de94b300afea5b43d205e728d1",
     "/chunk-BL5AWQAD.js": "b713eee0123c641dd1de711e2c1fa385602ab4f8",
     "/chunk-FJRTI35K.js": "82961745eaa36961e74b11084f20d45cc62362a6",
