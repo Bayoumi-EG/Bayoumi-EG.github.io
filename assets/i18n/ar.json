@@ -34,6 +34,7 @@
   "home": {
     "storySectionTitle": "قصتنا",
     "menuSectionTitle": "قائمة الطعام (المنيو)",
+    "reviewsSectionTitle": "آراء وتجارب عملائنا",
     "branchesSectionTitle": "الفروع",
     "contactSectionTitle": "تواصل معنا",
     "sectionDividerAlt": "فاصل زخرفي",
@@ -63,10 +64,60 @@
     "creamTitle": "كريمة بيومي المميزة",
     "creamText": "منذ اليوم الأول عام 1925، ولدت وصفتنا الأيقونية «كريمة بيومي المميزة». ليست مجرد إضافة عادية، وإنما تُقطع وتوضع كـ “شريحة” تتوج رأس كأس أو كوب الجيلاتي، لتمنحه ذلك المذاق الذي يعرفه زبائن بيومي من أول ملعقة. تطورت أدوات العمل عبر السنين، لكن بقيت الكريمة جزءاً من الذاكرة التي يرجع لها الناس: قوامها، لونها، وطريقتها فوق الجيلاتي."
   },
+  "reviews": {
+    "googleReviewsLink": "تصفح أكثر من 250 تقييم على خرائط جوجل",
+    "googleMaps": "خرائط جوجل",
+    "items": [
+      {
+        "name": "ماجد أحمد الشريف",
+        "rating": "5",
+        "text": "آتي له مشياً على الأقدام من بعيد لاسترجاع ذكرياتي في محرم بك وتذوق الجيلاتي الجميل من بيومي.. ما يزيد عن نصف قرن وأنا طفل مع جدي ولم أنسَ تلك الأيام الجميلة.",
+        "avatarUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVQxynm44TJj2PscjruGMyNCjynHl1HxoSmXOC4W7WMSJbqmrM=s64-c-rp-mo-br100",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1TFYyVm5ZVnBoZFY5RGFUQlBkazl3YjAxQ1NYYxAB!2m1!1s0x0:0xe567511749303ce!3m1!1s2@1:CAIQACodChtycF9oOk5LV2VnYVphdV9DaTBPdk9wb01CSXc%7C%7C?hl=en-US"
+      },
+      {
+        "name": "خالد",
+        "rating": "5",
+        "text": "أحلى آيس كريم في مصر لأنه طبيعي، وطبقة الكريمة اللي تقريباً مفيش محل بيعملها في العالم كله، حقيقي تجربة لا تُنسى.",
+        "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocKh-Dp20HU_4L-qPXL2nQDE1DmsbUBp2CN5n0-iRqTMHH-6oQ=s64-c-rp-mo-br100",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyNmNteXhnRRAB!2m1!1s0x0:0xe567511749303ce!3m1!1s2@1:CIHM0ogKEICAgICr6cmyxgE%7C%7C?hl=en-US"
+      },
+      {
+        "name": "زياد شاهين",
+        "rating": "5",
+        "text": "عنده أي جيلاتي بيحط عليه قشطة وكريمة رهيبة، وكل الأطعمة عنده طبيعية وبأعلى جودة وخصوصاً المستكة والليمون.",
+        "avatarUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUTyNyPgQvjTlSw-ZOBFisslwGdlPverSdXRZhuxf6NwjCg4cA=s64-c-rp-mo-br100",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURKa3QyU0tBEAE!2m1!1s0x0:0xe567511749303ce!3m1!1s2@1:CIHM0ogKEICAgIDJkt2SKA%7C%7C?hl=en-US"
+      },
+      {
+        "name": "رامي صالح",
+        "rating": "5",
+        "text": "أقدم محل جيلاتي في محرم بك والأعرق في الإسكندرية.. أهم ما يميزه إضافة الكريمة اللباني الفاخرة على الجيلاتي واستخدام أجود الألبان الطبيعية وتورتات جيلاتي ممتازة.",
+        "avatarUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVVEsVXsA8KbEXsqUc1zFOqYuI_7jX4v7PvgVO-mlvywcyfBAQ=s64-c-rp-mo-ba12-br100",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNHdzdMRUtBEAE!2m1!1s0x0:0xe567511749303ce!3m1!1s2@1:CIHM0ogKEICAgICGw7LEKA%7C%7C?hl=en-US"
+      },
+      {
+        "name": "خديجة محمد",
+        "rating": "5",
+        "text": "أحلى جيلاتي طبيعي وأقدم وأعرق محل في إسكندرية، طعم وجودة ثابتة تفرح القلب.",
+        "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIm9tgZEIneUR-MhK48wLxNbI_M3uctb1GZmppffsrmCKOXCg=s64-c-rp-mo-br100",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURZcThlU3N3RRAB!2m1!1s0x0:0xe567511749303ce!3m1!1s2@1:CIHM0ogKEICAgIDYq8eSswE%7C%7C?hl=en-US"
+      },
+      {
+        "name": "جاسر موسى",
+        "rating": "5",
+        "text": "آيس كريم تحفة خصوصاً المستكة والليمون وطبقة القشطة، نكهات طبيعية مميزة جداً.",
+        "avatarUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXqpVKtduJ5PjytpWRaoFcoij1Hmf7Jr-xblwqRsA2FzXAmGmXuBQ=s64-c-rp-mo-ba12-br100",
+        "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKa3QzNXpBRRAB!2m1!1s0x0:0xe567511749303ce!3m1!1s2@1:CIHM0ogKEICAgIDJkt35zAE%7C%7C?hl=en-US"
+      }
+    ]
+  },
   "branches": {
     "mapTitle": "جيلاتي بيومي",
     "mapEmbedUrl": "https://maps.google.com/maps?q=جيلاتي%20بيومي%20محرم%20بك&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "openFrom": "مفتوح من:",
+    "openFrom": "المواعيد:",
+    "statusOpen": "مفتوح الآن",
+    "statusClosed": "مغلق الآن",
     "callNow": "اتصل الآن"
   },
   "contact": {
